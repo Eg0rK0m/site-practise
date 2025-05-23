@@ -1,7 +1,7 @@
 *{
     font-family: "Inter Tight", sans-serif;
-  font-optical-sizing: auto;
-  font-style: flex;
+    font-optical-sizing: auto;
+    font-style: flex;
 }
 
 ul{
@@ -42,4 +42,8 @@ a{
     padding: 17px 24px;
     margin-top: 36px;
     color: white;
+}
+
+.pictures img{
+    margin: 10px;
 }
